@@ -1,1 +1,3 @@
 # hogeproject
+
+GitHubのクローン、プッシュ
